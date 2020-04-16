@@ -4,6 +4,11 @@
  * and open the template in the editor.
  */
 package nguyentunglam_59131156_btjava1234;
+//
+import BT1.Main1;
+import BT2.Main2;
+
+//
 
 /**
  *
@@ -15,7 +20,17 @@ public class NguyenTungLam_59131156_BTJava1234 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Bài tập 1:");
+        Main1.main(args);
+        
+        System.out.println("\nBài tập 2:");
+        Main2.main(args);
+        
+        System.out.println("\nBài tập 3:");
+        Main3.main(args);
+        
+        System.out.println("\nBài tập 4:");
+        Main4.main(args);
     }
     
 }
