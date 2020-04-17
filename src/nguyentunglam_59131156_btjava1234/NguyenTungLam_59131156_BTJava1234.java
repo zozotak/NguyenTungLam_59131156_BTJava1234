@@ -26,11 +26,7 @@ public class NguyenTungLam_59131156_BTJava1234 {
         System.out.println("\nBài tập 2:");
         Main2.main(args);
         
-        System.out.println("\nBài tập 3:");
-        Main3.main(args);
-        
-        System.out.println("\nBài tập 4:");
-        Main4.main(args);
+       
     }
     
 }
